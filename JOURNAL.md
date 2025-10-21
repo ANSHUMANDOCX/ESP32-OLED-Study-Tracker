@@ -6,3 +6,15 @@
   ==================================================================
 -->
 
+## 10/21/2025 - Began with researching the parts and finalizing what to use  
+
+I started with researching the components to use with the project how it will. what all it would contain how the webpage will look hosting webpages using esp32 etc.
+
+here are the things finalized
+
+- will be using a 2.42 inch oled display
+- ESP32 WROOM module with a onboard programming chip
+- TYPE C interface
+- like theses ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDE0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--bca1325a527d93f62e49916bbbf8142001ea9ecf/image.png)
+  
+
