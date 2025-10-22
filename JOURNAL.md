@@ -18,7 +18,7 @@ here are the things finalized
 - like theses ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDE0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--bca1325a527d93f62e49916bbbf8142001ea9ecf/image.png)
   
 
-## 10/22/2025 - completed the schematic   
+## 10/22/2025 8 AM - completed the schematic   
 
 Read datasheets of all the components and completed the schematic.
 spent a lot of time deciding the uart ic since there are many good choices finally went with CH343.
@@ -27,5 +27,18 @@ also, added 3 buttons for changing subject, start/pause, stop. what it will do i
 also added a auto program logic for the esp32 using transistors. 
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDI3NywicHVyIjoiYmxvYl9pZCJ9fQ==--b7ec3cdbba257825cb8f19228c737b09b038ffee/image.png)
+  
+
+## 10/22/2025 9 PM - Completed Placing and Routing components on the PCB  
+
+so created a pcb of th size almost similar to the oled display and arranged the components on it.
+had to find the exact dimension fo the oled dispaly by goinf through the datasheets.
+
+Also completed the routing of all the components chose to do it on the back side of the pcb and palnning to mount the board directly on the OLED Module using screws to keep the form factor small 
+
+just faced some trouble placing the the screws Holes in proper alignment so that i dont have to modify much after i get the pcb
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDQzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--17037a0ac65f84597115e4078bc0cb7c79419805/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDQ0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--d3cf6d2029c1d914615b6ecb04b0bbc223b64bf7/image.png)
   
 
