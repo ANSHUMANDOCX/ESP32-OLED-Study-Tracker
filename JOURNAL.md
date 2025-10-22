@@ -18,3 +18,14 @@ here are the things finalized
 - like theses ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDE0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--bca1325a527d93f62e49916bbbf8142001ea9ecf/image.png)
   
 
+## 10/22/2025 - completed the schematic   
+
+Read datasheets of all the components and completed the schematic.
+spent a lot of time deciding the uart ic since there are many good choices finally went with CH343.
+also, added 3 buttons for changing subject, start/pause, stop. what it will do is that once stop is pressed it will send the the time to the server and sill be available to see through the web page and the pause will just locally pause the timer.  
+
+also added a auto program logic for the esp32 using transistors. 
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDI3NywicHVyIjoiYmxvYl9pZCJ9fQ==--b7ec3cdbba257825cb8f19228c737b09b038ffee/image.png)
+  
+
