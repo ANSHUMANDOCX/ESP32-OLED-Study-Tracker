@@ -19,6 +19,7 @@ It also has a Log system thats logs the time we have spent on something and help
 # BOM
 |Part|Supplier|Cost|LINK|
 |----|--------|----|----|
-|OlED Display|Electronics Comp|$18|https://www.electronicscomp.com/waveshare-242inch-oled-display-modulec-12864-resolution-spi-i2c-communication-yellow-display|
-|ESP32 WROOM|Electronicscomp|$4.31|https://www.electronicscomp.com/espressif-esp32-wroom-32-16m-128mbit-flash-wifi-bluetooth-module|
-|PCB|JLCPCB|$8||
+|OlED Display|Electronics Comp|$18.9|https://www.electronicscomp.com/waveshare-242inch-oled-display-modulec-12864-resolution-spi-i2c-communication-yellow-display|
+|ESP32 WROOM|Electronicscomp|$4.8|https://www.electronicscomp.com/espressif-esp32-wroom-32-16m-128mbit-flash-wifi-bluetooth-module|
+|PCB|JLCPCB|$8.64||
+|total||$32.5||
