@@ -15,3 +15,10 @@ It also has a Log system thats logs the time we have spent on something and help
 <img width="751" height="456" alt="Screenshot 2025-10-22 211132" src="https://github.com/user-attachments/assets/cd7786e4-8a15-4608-a4b6-40c8259c0aaf" />
 <img width="1566" height="582" alt="Screenshot 2025-10-22 084319" src="https://github.com/user-attachments/assets/13d2b988-42d6-49df-a99c-788dafc9649c" />
 <img width="1902" height="505" alt="Screenshot 2025-10-23 083905" src="https://github.com/user-attachments/assets/a0ed4bde-343a-43ca-8c47-b35ec71715be" />
+
+# BOM
+|Part|Supplier|Cost|LINK|
+|----|--------|----|----|
+|OlED Display|Electronics Comp|$18|https://www.electronicscomp.com/waveshare-242inch-oled-display-modulec-12864-resolution-spi-i2c-communication-yellow-display|
+|ESP32 WROOM|Electronicscomp|$4.31|https://www.electronicscomp.com/espressif-esp32-wroom-32-16m-128mbit-flash-wifi-bluetooth-module|
+|PCB|JLCPCB|$8||
