@@ -42,3 +42,15 @@ just faced some trouble placing the the screws Holes in proper alignment so that
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDQ0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--d3cf6d2029c1d914615b6ecb04b0bbc223b64bf7/image.png)
   
 
+## 10/23/2025 - Setting up and testing the backend on the esp32  
+
+i tried hosting a webpage on the esp32 with all the feature that i would need. spent the time polishing the website and perfecting those. 
+so features i thought of adding-
+
+- a log on the page to keep track of your productive hours
+- a target hours options tells one ow much they have been productive and how close they were to their set goal.
+
+here is the website snap
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDYzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--5bf2019caf51035549c83adc3cf776f963990f77/image.png)
+   
+
