@@ -54,3 +54,12 @@ here is the website snap
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDYzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--5bf2019caf51035549c83adc3cf776f963990f77/image.png)
    
 
+## 10/25/2025 - Started out with the CAD  
+
+made the sketch for the top portion of the housing i cant make it as a single using snce there is a antenna of the ESP always sticking out of the PCB so..
+
+had to go through the datasheet of the OLED to make sure that the Housing size was correct
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQ2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--be672aa62a8184e36c15c1889caf17132cea266f/image.png)
+  
+
