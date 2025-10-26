@@ -63,3 +63,23 @@ had to go through the datasheet of the OLED to make sure that the Housing size w
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQ2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--be672aa62a8184e36c15c1889caf17132cea266f/image.png)
   
 
+## 10/26/2025 - made the Bottom and the Upper Portion  
+
+So i found some 27mm m3 screws lying around.
+here is what i have planned to do the whole thing will sit on 4 screws and stacking the components.
+the screw will go through the Front panel through the PCBs.
+the PCB will be held in place with screws. 
+then the remaining screw will go all the way to base of the bottom potion where it will be screwed on using heat set inserts added to be base. 
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY3NCwicHVyIjoiYmxvYl9pZCJ9fQ==--2c1002ec3c31017db696297b69709a70477a6c23/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--b4a378434eb6802e65fa544183a378a5cf9c381b/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--d48f00646ce45c25eb206fb4001871bb91914abe/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY3MywicHVyIjoiYmxvYl9pZCJ9fQ==--ec8a7037be584319e129a720e4880419cab92ee6/image.png)
+
+
+
+
+
+
+  
+
