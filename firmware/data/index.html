@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ESP32 Study Tracker</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="page-header">
+  <h1>📚 Study Tracker Dashboard</h1>
+  <div class="header-right">
+    <div id="lastUpdated" class="last-updated" aria-live="polite">Last updated: —</div>
+  </div>
+</header>
+
+<div class="cards">
+  <div class="card">
+    <h2>Physics</h2>
+    <p id="physics">00:00:00</p>
+  </div>
+  <div class="card">
+    <h2>Chemistry</h2>
+    <p id="chemistry">00:00:00</p>
+  </div>
+  <div class="card">
+    <h2>Math</h2>
+    <p id="math">00:00:00</p>
+  </div>
+  <div class="card total">
+    <h2>PCM Total</h2>
+    <p id="pcm_total">00:00:00</p>
+  </div>
+  <div class="card target">
+    <h2>Today's Target</h2>
+    <p id="targetDisplay">Not set</p>
+    <div class="target-controls" id="targetControls">
+      <button id="editTargetBtn">Edit</button>
+    </div>
+    <form id="targetForm" class="target-form" style="display:none" onsubmit="return false;" aria-hidden="true">
+      <div class="inputs">
+        <input id="targetHours" type="number" min="0" step="1" placeholder="Hours" aria-label="Target hours">
+        <input id="targetMinutes" type="number" min="0" max="59" step="1" placeholder="Minutes" aria-label="Target minutes">
+      </div>
+      <div class="form-actions">
+        <button id="saveTargetBtn" type="button" class="primary">Save</button>
+        <button id="cancelTargetBtn" type="button">Cancel</button>
+      </div>
+      <div class="preset-row" aria-hidden="false">
+        <button type="button" class="preset" data-mins="30">+30m</button>
+        <button type="button" class="preset" data-mins="60">+1h</button>
+        <button type="button" class="preset" data-mins="90">+1h30</button>
+      </div>
+    </form>
+    <div class="progress" aria-hidden="true"><div id="targetProgress" class="progress-bar" style="width:0%"></div></div>
+  </div>
+</div>
+
+<div class="buttons">
+  <button onclick="logNow()">📤 Log Now</button>
+  <button id="clearLogsBtn">⚠️ Clear All Logs</button>
+  <a href="/logs.csv" download class="download-link"><button>📥 Download CSV</button></a>
+  <input type="file" id="logsFile" accept=".csv" class="hidden-file">
+  <label for="logsFile" class="file-btn">📂 Choose CSV</label>
+  <button onclick="uploadLogs()">📤 Upload Logs CSV</button>
+</div>
+
+<h2>📄 Logs</h2>
+<div class="table-container">
+  <table id="logsTable">
+    <tr>
+      <th>Date & Time</th>
+      <th>Physics</th>
+      <th>Chemistry</th>
+      <th>Math</th>
+      <th>PCM Total</th>
+    </tr>
+  </table>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
